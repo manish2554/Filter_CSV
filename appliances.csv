@@ -1,0 +1,15 @@
+appliances model number,appliances name ,category,recommendation,price,discount
+1001,kent air purifier ,air purifier ,best seller,8000,500
+1002,momax air purifier,air purifier ,no recommendation yet,9000,300
+1003,phillips air care ,air purifier ,best rating ,40000,1200
+2001,CG iron,iron,trending,1500,100
+2002,baltra steam iron,iron,best seller,1200,50
+2003,phillips iron,iron,best rating ,2500,100
+3001,CG refrigerator ,refrigerator,best seller,30000,300
+3002,phillips refrigerator ,refrigerator,trending,40000,200
+3003,LG 190 ltrs refrigerator,refrigerator,no recommendation yet,35000,350
+3004,samsung double door 190ltrs refrigerator,refrigerator,best rating ,50000,500
+4001,LG oven,oven,best seller,23000,250
+4002,Godrej oven,oven,no recommendation yet,22000,220
+4003,samsung oven,oven ,best rating ,25000,250
+4004,baltra oven,oven ,trending,20000,200
